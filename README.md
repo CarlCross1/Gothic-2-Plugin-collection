@@ -1,6 +1,10 @@
 # Gothic-2-Plugin-collection
 
-Los plugins van en: `C:\Program Files (x86)\Steam\steamapps\common\TheChroniclesOfMyrtana\Data\Plugins`
+Descarga directa
+
+Si prefieres descargar todos los plugins a la vez, puedes descargar el archivo Gothic-2-Plugin-collection.zip directamente desde este repositorio. Una vez descargado, simplemente extrae el contenido y coloca los archivos .vdf en la ruta de instalación: 
+
+C:\Program Files (x86)\Steam\steamapps\common\TheChroniclesOfMyrtana\Data\Plugins
 
 ---
 
