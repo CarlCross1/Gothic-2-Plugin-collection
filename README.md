@@ -1,2 +1,2 @@
 # Gothic-2-Plugin-collection
-A collection of gothic/gothic 2 notr plugins
+LOs plugins van en C:\Program Files (x86)\Steam\steamapps\common\TheChroniclesOfMyrtana\Data\Plugins
